@@ -1,4 +1,5 @@
 CS 330 
+
 How do I approach designing software?
 I approach designing software by splitting my goals into smaller pieces of work. For the project, I had a personal reference image, and had to initially identify which basic shapes could represent its objects. My design process involved building the basic scene first and then refining its appearance through textures and lighting. I learned that objects need to work together visually, so I had to consider the whole scene when making adjustments. In future projects, I can apply this approach by planning the main components early and refining details as I test the result.
 How do I approach developing programs?
