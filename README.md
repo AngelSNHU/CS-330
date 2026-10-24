@@ -1,8 +1,13 @@
-CS 330 
+#CS 330 
 
 How do I approach designing software?
+
 I approach designing software by splitting my goals into smaller pieces of work. For the project, I had a personal reference image, and had to initially identify which basic shapes could represent its objects. My design process involved building the basic scene first and then refining its appearance through textures and lighting. I learned that objects need to work together visually, so I had to consider the whole scene when making adjustments. In future projects, I can apply this approach by planning the main components early and refining details as I test the result.
+
 How do I approach developing programs?
+
 I approach development by working on one feature at a time and checking on how the code is functioning before moving on. While working on my own scene, I was making smaller changes to objects like transformations, textures, and lighting. Taking coding in smaller blocks allows for identifying errors much easier. I repeatedly would code, then run the program, inspect the scene, and adjust the respective code to improve the result. Lighting required the most care for myself as I found even just small changes could make surfaces appear too bright or too dark. Throughout the milestones, I evolved in understanding when the relevant code was necessary and making the proper adjustments instead of changing several things at once. A small thing I found too was learning to check that the project package includes the files needed to open and review my work.
+
 How can computer science help me in reaching my goals?
+
 I plan to one day get into game development and I find computer science can help to turn my creative ideas into working programs. As computational graphics gave me real experience with coordinate systems, transformations, and how coding through mathematics can lead to visual results. This project gave me a foundation for exploring game development and other applications that use 3D graphics. I feel I have a better understanding of how camera controls, shapes, textures, and lighting work to make a full interactive scene. 
